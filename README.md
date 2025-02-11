@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hi there, I'm <span style="color:#ff6600">Aswathy S</span>! 👋
@@ -30,15 +28,7 @@
 ![PwerBi](https://img.shields.io/badge/-PowerBI-E97627?logo=tableau&logoColor=white)
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
-
-## 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 ## 🏆 Certifications & Achievements  
 🏅 **AI Saksharatha Certificate** - Entri Elevate  
 🎓 **ChatGPT Essentials** 
