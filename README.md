@@ -56,6 +56,9 @@
 
 -------
 
+## 📊 Example Visualization
+![Example Visualization](https://github.com/AswathyD31/your-repo/raw/main/images/example_plot.png)
+
 ## 📫 Let's Connect!  
 
 <p align="center">
