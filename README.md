@@ -50,14 +50,22 @@
 
 ----
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AswathyD31&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswathyD31&theme=dracula&hide_border=true">
+</p>
+
+---
+
 ## 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswathyD31&layout=compact&theme=radical)
 
-
 -------
-
-## 📊 Example Visualization
-![Example Visualization](https://github.com/AswathyD31/your-repo/raw/main/images/example_plot.png)
 
 ## 📫 Let's Connect!  
 
