@@ -43,6 +43,11 @@
 - [**Financial_Data_Analysis_PowerBI_Project**](https://github.com/AswathyD31/Financial_Data_Analysis_PowerBI_Project) - A financial data analysis project using PowerBi to create dashboard.
 - [**NLP Emotion_Classification_in_Text**](https://github.com/AswathyD31/-NLP---Emotion_Classification_in_Text) - This project aims to classify text data into different emotions (e.g., anger, fear, joy) using Natural Language Processing (NLP) techniques and machine learning models.
 
+------
+
+## 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ## 📫 Let's Connect!  
 
