@@ -46,7 +46,7 @@
 ------
 
 ## 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-actual-username&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswathyD31&langs_count=8&theme=tokyonight)
 
 ## 📫 Let's Connect!  
 
