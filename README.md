@@ -45,11 +45,6 @@
 
 ------
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&bg_color=30,ff007f,ffcc00,ff0000&title_color=ffffff&text_color=ffffff)
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AswathyD31&bg_color=0d1117&color=58a6ff&line=ffcc00&point=ff007f&hide_border=true)
-----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&theme=tokyonight" />
@@ -70,11 +65,10 @@
 ## 📫 Let's Connect!  
 
 <p align="center">
-  <a <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/your-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 ---
 
 ⭐️ From [Aswathy S](https://github.com/your-username) 🚀🔥
