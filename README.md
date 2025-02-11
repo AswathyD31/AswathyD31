@@ -45,8 +45,13 @@
 
 ------
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&theme=radical)
+
+----
+
 ## 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswathyD31&layout=compact&theme=radical)
 
 
 -------
@@ -63,4 +68,4 @@
 
 ⭐️ From [Aswathy S](https://github.com/your-username) 🚀🔥
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AswathyD31&color=blue)
