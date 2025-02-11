@@ -10,12 +10,12 @@
 ---
 
 ### 🚀 About Me  
-🌟 **Passionate & Aspiring Data Scientist & ML Enthusiast**  
-🔬 Working on **Deep Learning & Predictive Modeling**  
-🏆 Recently earned **AI Saksharatha Certificate from Entri Elevate**  
-📈 Exploring **Data Analysis, Feature Engineering & Model Optimization**  
-💡 I love solving real-world problems using Machine Learning!  
-
+🌟 **Passionate & Aspiring Data Scientist & ML Enthusiast**   
+- 🔭 Currently working on [**Capstone_Project_Dry_Bean_Classification_Prediction](#)**  
+- 🌱 Exploring Deep Learning & Advanced Data Analysis  
+- 🏆 Recently Earned **AI Saksharatha Certificate from Entri Elevate**  
+- 🤝 Looking for collaborations on **ML & AI-based projects**  
+- ⚡ Fun fact: I love turning data into meaningful insights 📊  
 ---
 
 ## 🌈 Tech Stack & Tools  
@@ -37,9 +37,9 @@
 ---
 
 ## 📂 Featured Projects
-- [Capstone_Project_Dry_Bean_Classification_Prediction ]((https://github.com/AswathyD31/Capstone_Project_Dry_Bean_Classification_Prediction)) - A machine learning model to predict Dry_Bean_Classification.
-- [Financial_Data_Analysis_PowerBI_Project]((https://github.com/AswathyD31/Financial_Data_Analysis_PowerBI_Project)) - A financial data analysis project using PowerBi to create dashboard.
-- [NLP---Emotion_Classification_in_Text ]((https://github.com/AswathyD31/-NLP---Emotion_Classification_in_Text)) - This project aims to classify text data into different emotions (e.g., anger, fear, joy) using Natural Language Processing (NLP) techniques and machine learning models.
+- [**Capstone_Project_Dry_Bean_Classification_Prediction** ]((https://github.com/AswathyD31/Capstone_Project_Dry_Bean_Classification_Prediction)) - A machine learning model to predict Dry_Bean_Classification.
+- [**Financial_Data_Analysis_PowerBI_Project**]((https://github.com/AswathyD31/Financial_Data_Analysis_PowerBI_Project)) - A financial data analysis project using PowerBi to create dashboard.
+- [**NLP---Emotion_Classification_in_Text** ]((https://github.com/AswathyD31/-NLP---Emotion_Classification_in_Text)) - This project aims to classify text data into different emotions (e.g., anger, fear, joy) using Natural Language Processing (NLP) techniques and machine learning models.
 
 
 ## 📫 Let's Connect!  
