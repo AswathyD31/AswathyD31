@@ -2,7 +2,7 @@
 
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hi there, I'm <span style="color:#ff6600">[ASWATHY S]</span>! 👋
+  Hi there, I'm <span style="color:#ff6600">ASWATHY S</span>! 👋
 </h1>
 
 <p align="center">
