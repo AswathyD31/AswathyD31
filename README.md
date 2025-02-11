@@ -31,7 +31,9 @@
 
 ## 🏆 Certifications & Achievements  
 🏅 **AI Saksharatha Certificate** - Entri Elevate
+
 🎓 **ChatGPT Essentials** - Entri Elevate 
+
 🎓 **Microsoft Excel Basic to Advanced** - Entri Elevate 
 
 ---
