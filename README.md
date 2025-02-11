@@ -54,6 +54,6 @@
 
 ---
 
-⭐️ From [ASWATHY S](https://github.com/your-username) 🚀🔥
+⭐️ From [Aswathy S](https://github.com/your-username) 🚀🔥
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
