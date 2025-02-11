@@ -25,7 +25,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![PwerBi](https://img.shields.io/badge/-PowerBI-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ---
 
 
@@ -46,8 +46,8 @@
 ------
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&theme=gruvbox)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswathyD31&show_icons=true&bg_color=30,ff007f,ffcc00,ff0000&title_color=ffffff&text_color=ffffff)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AswathyD31&bg_color=0d1117&color=58a6ff&line=ffcc00&point=ff007f&hide_border=true)
 ----
 
 ## 📊 GitHub Stats  
@@ -63,14 +63,14 @@
 ---
 
 ## 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswathyD31&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AswathyD31&layout=compact&theme=radical)
 
 -------
 
 ## 📫 Let's Connect!  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AswathyD31)/></a>
   <a href="https://kaggle.com/your-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
