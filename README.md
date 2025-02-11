@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me  
-🌟 **Passionate Data Scientist & ML Enthusiast**  
+🌟 **Passionate & ASpiring Data Scientist & ML Enthusiast**  
 🔬 Working on **Deep Learning & Predictive Modeling**  
 🏆 Recently earned **AI Saksharatha Certificate from Entri Elevate**  
 📈 Exploring **Data Analysis, Feature Engineering & Model Optimization**  
@@ -22,16 +22,12 @@
 
 ## 🌈 Tech Stack & Tools  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![PwerBi](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ---
 
 ## 📊 GitHub Stats  
