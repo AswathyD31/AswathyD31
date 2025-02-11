@@ -27,21 +27,18 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![PwerBi](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![PwerBi](https://img.shields.io/badge/-PowerBI-E97627?logo=tableau&logoColor=white)
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=dracula&hide_border=true">
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
+## 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
 ## 🏆 Certifications & Achievements  
 🏅 **AI Saksharatha Certificate** - Entri Elevate  
 🎓 **ChatGPT Essentials** 
