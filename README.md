@@ -30,7 +30,11 @@
 
 
 ## 🏆 Certifications & Achievements  
-🏅 **AI Saksharatha Certificate** - Entri Elevate
+
+
+🏅 **Data Science And Machine Learning** - Entri Elevate
+
+🎓 **AI Saksharatha Certificate** - Entri Elevate
 
 🎓 **ChatGPT Essentials** - Entri Elevate 
 
