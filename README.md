@@ -11,7 +11,7 @@
 
 ### 🚀 About Me  
 🌟 **Passionate & Aspiring Data Scientist & ML Enthusiast**   
-- 🔭 Currently worked on **[Capstone Project Dry Bean Seed Classification](#)**
+- 🔭 Capstone Project **[Capstone Project Dry Bean Seed Classification](#)**
 - 🌱 Exploring Deep Learning & Advanced Data Analysis  
 - 🏆 Recently Earned **AI Saksharatha Certificate from Entri Elevate**  
 - 🤝 Looking for collaborations on **ML & AI-based projects**  
