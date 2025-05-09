@@ -31,6 +31,7 @@
 
 ## 🏆 Certifications & Achievements  
 
+🏅 **Data Science and Machine Learning certified user** - Illinois Institute of Technology
 
 🏅 **Data Science And Machine Learning** - Entri Elevate
 
